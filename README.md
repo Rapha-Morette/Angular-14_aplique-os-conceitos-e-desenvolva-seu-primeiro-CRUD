@@ -11,6 +11,7 @@ Projeto proporcionado pelo curso Angular 14: aplique os conceitos e desenvolva s
 
 
 Com este curso obtive mais conhecimentos sobre o Angular e boas práticas sobre o framework.
+Este projeto consiste em uma aplicação onde o usuário pode registrar, alterar e excluir suas ideias. Semelhante a um bloco de notas com mais funcionalidades.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.2.
 
