@@ -1,5 +1,5 @@
 # Memoteca
-Projeto proporcionado pelo curso Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD da formação Explore o framework Angular da Alura onde foi proporcionado os seguintes ensinamentos:
+Projeto proporcionado pelo curso Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD da formação Explore o framework Angular da Alura onde foi proporcionando os seguintes ensinamentos:
 
 - Utilize a ferramenta Angular CLI para criar um projeto e diversos tipos de arquivos
 - Entenda a estrutura de um componente em Angular
