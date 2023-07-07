@@ -6,5 +6,16 @@ import { Component } from '@angular/core';
   styleUrls: ['./listar-pensamento.component.css'],
 })
 export class ListarPensamentoComponent {
-  listaPensamentos = [];
+  listaPensamentos = [
+    {
+      conteudo: 'Passo as informações para o componente filho',
+      autoria: 'Componente pai',
+      modelo: 'modelo3'
+    },
+    {
+      conteudo: 'Minha propriedade é decorada com @input',
+      autoria: 'Componente filho',
+      modelo: 'modelo1'
+    }
+  ];
 }
