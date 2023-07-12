@@ -17,6 +17,12 @@
       "autoria": "Dev Angular",
       "modelo": "modelo3",
       "id": 4
+    },
+    {
+      "conteudo": "Card editado",
+      "autoria": "Dev editado",
+      "modelo": "modelo1",
+      "id": 5
     }
   ]
 }
